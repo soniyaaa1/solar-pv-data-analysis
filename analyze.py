@@ -112,7 +112,7 @@ axes[1, 1].grid(True)
 
 plt.tight_layout(pad=3.0)
 plt.savefig(
-    'ghi.weather_relationships.png',
+    'results/ghi.weather_relationships.png',
     dpi=300
 )
 plt.show()

@@ -289,6 +289,7 @@ solar_pv_data_analysis/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
 
 ⚠️Limitations
 
